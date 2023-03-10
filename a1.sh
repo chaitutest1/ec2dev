@@ -2,4 +2,4 @@ date
 cal
 whoami
 uname
-ifconfig
+ls -al
