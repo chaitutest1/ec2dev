@@ -3,4 +3,4 @@ cal
 whoami
 uname
 ls -al
-ip address
+hostname -I
