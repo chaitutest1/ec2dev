@@ -4,4 +4,4 @@ whoami
 uname
 ifconfig
 cat a1.sh
-systemctl status jenkins
+echo "you are the best"
